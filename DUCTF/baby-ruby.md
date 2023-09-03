@@ -2,6 +2,7 @@ Original writeups: https://github.com/DownUnderCTF/Challenges_2023_Public/tree/m
 
 ### Solution:
 Well, after a longgggg time I can now finally stop my procrastination and come back to do some CTF with my lads. Oh, what's this? Ruby? Medium? I can't even do some beginner chals so it MUST be hard, eh?
+
 ![ruby-chal](https://github.com/thnimp/CTF-writeups/assets/73044693/cb453c6a-3740-4ef2-9dc6-58b20285ac0b)
 
 Let's look at the code then...
