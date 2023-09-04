@@ -11,7 +11,7 @@ Let's look at the code then...
 
 Lol, eval, yum, classic~. I can execute some dirty commands, eh.
 
-![ruby](https://github.com/thnimp/CTF-writeups/assets/73044693/2cce552e-9881-4b32-a7e2-8a0846e5f4b8)
+![ruby](https://github.com/thnimp/CTF-writeups/assets/73044693/49863096-3bd5-4caf-91c0-0973f157a5b7)
 
 ![wgm](https://github.com/thnimp/CTF-writeups/assets/73044693/f1232a87-1379-47b9-9b13-e8f04a2e3c37)
 
